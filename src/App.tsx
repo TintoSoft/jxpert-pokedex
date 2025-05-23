@@ -315,7 +315,7 @@ export const App = () => {
           )}
         </section>
         {finalResult.length === 0 && (
-          <p className="noresults">No results found</p>
+          <p className="noresults">No results found otra</p>
         )}
       </main>
 
